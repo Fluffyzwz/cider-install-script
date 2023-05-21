@@ -15,4 +15,4 @@ Install yay
 `yay -S pnpm`
 
 to use this script run
-`chmod u+x ./cider-install-script.sh && ./cider-install-script.sh --answer the questions`
+`chmod u+x ./cider-install-script.sh && ./cider-install-script.sh answer` the questions
