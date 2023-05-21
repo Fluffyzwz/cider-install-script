@@ -1,4 +1,3 @@
-#Cider Install Script
 ![Installation Script For Cider](https://github.com/CiderApp/Cider)
 Install these Recommended / Required Development Utilities
 `Gentoo
