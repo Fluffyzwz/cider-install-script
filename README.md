@@ -1,8 +1,8 @@
 ![Installation Script For Cider](https://github.com/CiderApp/Cider)
 Install these Recommended / Required Development Utilities
-`Gentoo
-emerge --ask nodejs dev-vcs/git dev-lang/python:3.8
-`
+Gentoo
+`emerge --ask nodejs dev-vcs/git dev-lang/python:3.8`
+
 Arch Linux
 `pacman -S nodejs python`
 Arch Linux - pnpm
