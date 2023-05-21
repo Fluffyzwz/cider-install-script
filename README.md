@@ -6,7 +6,7 @@ Gentoo
 Arch Linux
 `pacman -S nodejs python`
 Arch Linux - pnpm
-`Install yay`
+Install yay
 `git clone https://aur.archlinux.org/yay.git`
 `cd yay`
 `makepkg -si`
